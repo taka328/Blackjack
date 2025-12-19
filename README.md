@@ -1,2 +1,2 @@
-# Blackjack
+# Blackjack Solver
 BlackJack
